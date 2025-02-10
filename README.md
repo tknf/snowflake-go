@@ -7,7 +7,7 @@ For production use, I recommend [bwmarrin/snowflake](https://github.com/bwmarrin
 ## Installation
 
 ```bash
-go get github.com/tknf/snowflake
+go get github.com/tknf/snowflake-go
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ package main
 
 import (
   "fmt"
-  "github.com/tknf/snowflake"
+  "github.com/tknf/snowflake-go"
 )
 
 func main() {
